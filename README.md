@@ -2,7 +2,7 @@
 Aggregate dynamics for dense crowd simulation
 
 # Test website
-https://alexanderinum.github.io/crowd
+https://alexanderinum.github.io/CrowdSimulation
 
 # Dev repo
 https://github.com/alexanderinum/CrowdSimulation
