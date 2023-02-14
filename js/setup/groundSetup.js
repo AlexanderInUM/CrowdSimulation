@@ -15,7 +15,7 @@ const createGround = (scene) => {
 
   var mat = new BABYLON.StandardMaterial("textVid", scene);
   mat.diffuseTexture = new BABYLON.Texture(
-    "../ground-texture/ground1.jpg",
+    "/ground-texture/ground1.jpg",
     scene
   );
   mat.diffuseTexture.vScale = 5.0;
